@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+
+    <data
+id="CYP71Z_Comb_Aln"
+spec="Alignment"
+name="alignment">
+                    <sequence id="seq_Sobic.001G235500.1" spec="Sequence" taxon="Sobic.001G235500.1" totalcount="4" value="ATGGAGGAGAAGGTGCTCCTCGCCGTGGCCGTGGCCGTGCTA---CTCGTCGTCCTCTCCAAGCTCAAGTCTTTGCTCGTCACCAGGGCGAAGCTTAACCTGCCCCCGGGGCCATGGACGCTGCCGTTGATAGGGAGCGTCCACCACCTGGTCACCAGCCCGTCGATCTACCGGGCAATGCGTGACCTCGCGCAGGAGCACGGGCCGCTCATGATGCTCCGGCTGGGCGAGGTGCCCACGCTGGTGGTGTCGTCGCCGGAGGCCGCGCAGGCGATCACCAAGGCGCACGACATCACGTTCGCCGACCGCCACTTGAACGCCACCATCGGCGTGCTCACCTTTAACGGCACCGACCTGGTGTTCGGGACCTACGGCGAGCGGTGGCGCCAGCTCCGCAAGATCACCGTGCTGGAGCTGCTCAGCGTCGCGCGCGTGCAGTCGTTCCAGCGCATCCGCGAGGAGGAGGTGGCGCGCTTCATGCGGAGCCTCGCCGCGTCCGCCGGCGCCGGCGGCGCCGCCGTCAACCTGTCCAAGATGATATCTCGATTCATCAACGACACCTTCGTGAGGGAGTCCGTCGGCAGCCGGTGCAAGTACCAGGACGACTACCTGGATGCCTTCGACACCGCGGTCCGGCAGACGTCGGTGCTGACCGTGGCCGACCTCTTCCCGTCGTCGAGGCTCATGCAGATTCTCGGCACGGCGCCACGCAACGCGCTCAAGTCCCGGAACCGGATCACGCGCATCCTGGAGCAGATCATCCACGAGCAGGTCGAGGCCATGGACCGTGGC------------------GAGAAGACGGCGCACGAGAGCTTAATCGGTGTCCTGCTCAGGCTGCAGAAAGAGGCCAGCTTGCCCATCGAGCTCACCAACGACACCATCGTGGCGCTCATGTTTGACTTGTTCGGCGCCGGTAGCGATACCTCGTCGACGACACTGAACTGGTGCATGACAGAGCTAATCCGGTACCCGGCAGCGATGGCCAGAGCGCAGGCCGAGGTCCGGGAGGCCTTCAAGGGGAAGACCAGAATC---ACCGAGGATGACCTCGCCGGGGCA---------------GAGCTTAGCTACCTGAAGCTTGTGATCAAGGAAGCTCTCAGGATGCACTGCCCACTGCCGCTCCTGCTCCCGCGGCAGTGCCGTGAGACGTGCCAGGTCATGGGCTACGACATCCCTAAGGGCACATCCGTGTTCATCAACGTCTGGGCGATTTGCAGGGACGCCAAGTACTGGGAAGATGCAGAGGAATTCAGGCCAGAGCGGTTCGAGAACACCAACCTT------GACTACAAGGGGACAAACTACGAGTTTCTTCCGTTCGGATCCGGCCGCCGT---ATGTGCCCGGGA---------------------------GCAAACCTTGGACTGGCTAACATTGAACTCGCTCTGGCGAGCCTTCTGTATCACTATGATTGGAAGTTGCCTGATGGAGTGAAGCCAGAGGATGTTCAGGTTTGTGAGGGTCCAGGATTGATAGCAAAGAAGAAAACAGGCCTGATTTTGCACCCGGTTACCTGTATCGCTCCAGCCGATGCGTAA------"/>
+                    <sequence id="seq_Zm00001d014121" spec="Sequence" taxon="Zm00001d014121" totalcount="4" value="ATGGAGCAGAAGGTTCTCGTCGCCGTGGGCGTGGCCGTGCTACTCGTCGTCGTCCTCTCCAAGCTCAAGTCTGTGCTCGTCACCAAGCCGAAGCTTAACCTGCCCCCAGGGCCATGGACGCTACCATTAATAGGTAGCACCCACCACCTGGTCACCAGCCCGTCGATCTACCGGGCGATGCGTGATCTCGCGCAAAAGTACGGGCCGCTGATGATGCTCCGGCTGGGCGAGGTGCCCACGTTGGTGGTGTCGTCGCCGGAGGCCGCGCAGGCGATCACGAAGACGCACGACATCGCGTTCGCCGACCGTCACATGAACACCACCATCGGCGTGCTCACCTTCAACGGCACCGACCTGGTGTTCGGTCCCTACGGCGAGCGGTGGCGGCAGCTCCGCAAGATCTGCGTGCTGGAGCTGTTCAGCGTGGCGCGCGTGCAGTCGTTCCAGCGCATCCGCGAGGAGGAGGTGGCGCGGTTCATGCAGAGCCTCGCGGCGTCCGCCGGC------------ACCGTGAACCTGTCGAAGATGATCTCGAGATTCATCAACGACACCTTCGTGAGGGAGTGCATCGGCAGCCGGTGCAAGTACCAGGACGAGTACCTGGACGCCTTCGACACCGCGGTCCGGCAGACGTCGGTGCTGACCGTGGCCGACCTGTTCCCGTCGTCGAGGCTCATGCAGGCTGTGGGCACCGCGCCACGCAACGCGCTCAAGTGCCGCAACAGGATCACGCGCATCCTGGAGCAGATCATCCGCGAGAAGGTGGAGGCCATGGGCCGTGGC------------------GAAAAGACGGCGCACGAGGGCTTAATCGGTGTCCTGCTCAGGCTCCAGAAAGAGGCTAACTTGCCCACCCTGCTCACCAACGACACCATTGTGGCGCTCATGTTTGACTTGTTCGGCGCCGGCAGCGACACCTCGTCGACGACACTGAACTGGTGCATAACGGAGCTAATCCGGCACCCGGCGGCGATGGCGAAAGCCCAGGCCGAGGTCCGGGAGGCCTTCAAGGGGAAGGCGAGAATCATCAGCGAGGACGACCTCGCCGGGGCA---------------GGGCTTAGCTACCTGAAGCTTGTGATCAAGGAAGCTCTGAGGATGCACTGCCCACTGCCGCTGCTGCTCCCACGGCTGTGCCGTGAGACGTGCCAGGTGATGGGCTACGACATCCCCAAGGGCACGGCCGTGTTCATCAACGTCTGGGCGGTTTGCAGGGACGCCAAGTACTGGGAAGATCCAGAGGAATTCAGGCCAGAGCGGTTCGAGGACACCAACCTTGAGTACAACTACAAGGGGACGAACTACGAGTTCCTTCCGTTCGGGTCCGGCCGCCGG---ATGTGCCCGGGA---------------------------GCGAACCTTGGGCTGGGGAACATTGAGCTCGCGTTGGCGAGCCTTCTGTACCACTATGACTGGAAGTTGCCTGACGGAGTGAAGCCACAGGACGTCCAAGTTTGGGAGGGCCCAGGACTGATAGCCAAGAAGAAAACAGGCCTGCTGTTGCGCCCGGTTACCTGCATTGCTTTTGCTTGCTCCAGCGGCTAG"/>
+                    <sequence id="seq_Zm00001d014134" spec="Sequence" taxon="Zm00001d014134" totalcount="4" value="ATGGAGGACAAGGTGCTCATCGCCGTGGGAACGGTGGCGGTG---GTCGCCGTCCTCTCCAAGCTCAAGTCGGCCGTG---ACCAAGCCGAAGCTGAACCTTCCTCCAGGGCCATGGACGCTGCCGTTGATTGGCAGCATCCACCACATCGTCAGCAACCCGCTGCCCTACCGGGCGATGCGCGAGCTCGCGCACAAGCACGGGCCGCTCATGATGCTGTGGCTGGGCGAGGTGCCCACGCTGGTGGTGTCGTCGCCGGAGGCCGCGCAGGCGATCACCAAGACGCACGACGTGTCGTTCGCCGACCGTCACATCAACAGCACCGTCGACATACTCACCTTCAACGGCATGGACATGGTTTTCGGGTCCTACGGCGAGCAGTGGCGGCAGCTCCGCAAGCTCAGCGTGCTGGAGCTGCTGAGCGCCGCGCGGGTGCAGTCGTTCCAGCGCATCCGCGAGGAGGAGGTGGCGCGGTTCATGCGGAGCCTCGCCGCGTCCGCCAGCGCCGGC---GCCACCGTCGACCTGTCCAAGATGATCTCAAGCTTCATCAACGACACCTTCGTCAGGGAGTCCATCGGCAGCCGGTGCAAGTATCAGGACGAGTACCTGGCTGCCCTGGACACTGCCATTCGGGTGGCCGCGGAGCTAAGCGTAGGTAACATCTTCCCGTCGTCTAGGGTGTTGCAGAGTCTTAGCACGGCGCGACGCAAGGCGATAGCGTCCCGCGACGAGATGGCGCGCATCCTCGGGCAGATCATCCGCGAGACCAAGGAATCCATGGATCAGGGT------------------GACAAGACTTCAAACGAGAGCATGATCTCCGTCCTGCTCAGGCTTCAGAAAGACGCCGGCTTGCCCATCGAGCTCACCGACAACGTCGTCATGGCGCTCATGTTTGACTTGTTTGGCGCGGGCAGCGACACCTCGTCGACAACGCTGACCTGGTGCATGACAGAGCTGGTCCGGTACCCGGCAACGATGGCCAAAGCGCAGGCCGAGGTCCGGGAGGCTTTCAAGGGGAAGACCACGATC---ACGGAGGACGACCTGTCCACGGCA---------------AATCTTAGGTACCTGAAGCTCGTGGTGAAGGAAGCGCTCAGGTTGCACTGCCCGGTGCCGCTCCTGCTCCCACGCAAATGCCGGGAGGCGTGCCAGGTCATGGGCTACGACATCCCTAAAGGCACATGCGTGTTCGTCAATGTCTGGGCGATCTGTAGGGACCCTAGGTACTGGGAAGACGCCGAGGAATTCAAGCCGGAGCGGTTCGAGAACTCCAACCTA------GACTACAAGGGAACATACTACGAGTACCTCCCGTTCGGGTCTGGCCGTCGC---ATGTGCCCGGGA---------------------------GCAAACCTTGGAGTGGCCAACTTGGAGCTTGCACTGGCCAGCCTTCTGTACCATTTCGATTGGAAGCTACCAAGTGGACAGGAGCCTAAGGATGTCGATGTCTGGGAGGCTGCAGGACTGGTTGCGAAGAAAAACATAGGCCTGGTTCTGCACCCTGTCAGCCACATTGCTCCGGTTAATGCCTAA------"/>
+                    <sequence id="seq_Zm00001d014136" spec="Sequence" taxon="Zm00001d014136" totalcount="4" value="ATGGAGGACAAGGTGCTCCTCGCCGTGGCCATGGTGGCGCTG---ATCGCCGTCCTCTCCAAGCTCAAGTCGTTGCTCGAGACCAAGCCGAAGCTGAACCTGCCCCCAGGGCCATGGACGCTGCCATTGATCGGCAGCATCCACCACCTCGTCAGCAGCCCGCTGCCCTACCGAGCGATGCGCGAGCTCGCACACAAGCACGGGCCGCTCATGATGCTGTGGCTGGGCGAGGTGCCCACGCTGGTGGTGTCGTCGCCGGAGGCCGCGCAGGCGATCACCAAGACGCACGACGTCACGTTCGCCGACCGTCACATGAACAGCACCGTCGACATACTCACCTTCAACGGCAATGACATAGTGTTCGGGACGTACGGCGAGCAGTGGCGCCAGCTCCGTAAGCTCAGCGTGCTGGAGCTGCTGAGCGTGGCGCGGGTGCAGTCGTTCCAGCGCATCCGCGAGGAGGAGGTGGCGCGGTTCATGCGGAACCTGGCCGCGTCCGCCGGCGCCGGT---GCCACCGTCGACCTGTCGAAGATGATATCTAGCTTCATCAACGACACCTTCGTCAGGGAGTCCATCGGCAGCCGGTGCAAGCATCAGGACGAGTACCTGGATGCACTGCACACTGGCATTCGGGTGGCCGCGGAGCTAAGCGTAGCTAACCTCTTCCCGTCGTCTAGGCTGTTGCAGAGTCTTAGCACGGCGCGACGCAAGGCGGTAGCGGCCCGCGACGAGATGGCGCGCATCCTCGGGCAGATCATCCGCGAGACCAAGGAAGCCATGGACTGGGGT------------------GACAAGGCTTCAAACGAGAGCATGATCTCCGTCCTGCTGAGGCTGCAGAAAGAGGCCGGCTTGCCCATCGAGCTTACGGACGACATCGTCATGGCGCTCATGTTTGACTTGTTTGGCGCGGGCAGCGACACCTCGTCGACAACGCTAACCTGGTGCATGACAGAGATGATCCGGTACCCGGCCACGATGGCCAAAGCGCAGGCCGAGGTCCGGGAGGCCTTCAAGGGGAAGACCACAATC---ACGGAAGACGACCTGTCCAGGGCA---------------AACCTTAGCTACCTCAAGCTCGTGGTGAAGGAAGCGCTCAGGTTGCACTGCCCGGTGCCGCTCCTGATCCCACGCAAATGCCGCGAGACATGCCAGATCATGGGCTACGACATCCCTAAAGACACATGCGTGCTCGTCAATGTCTGGGCCATCTGTAGGGACTCTAGGTACTGGGAAGATGCCGACGAATTCAAGCCGGAGCGGTTCGAGAACTCCAGCCTA------GACTACAAAGGGACAAGCCACGAGTACCTCCCGTTCGGGTCTGGCCGTCGA---ATGTGCCCAGGA---------------------------GGGAACCTTGGAGTGGCCAACATGGAGCTTGCACTAGCCAGCCTTCTGTACCATTTCGATTGGAAGCTACCAAGTGGACAGGAGCCCAAGGATGTGGATGTTTGGGAGGCTGCAGGACTGGTTGGAAGGAAAAACGCAGGCCTGGTTTTGCACCCGGTCAGCCGCTTTGCTCCGGTTAATGCCTAA------"/>
+                    <sequence id="seq_Zm00001d048864" spec="Sequence" taxon="Zm00001d048864" totalcount="4" value="---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ATGACGTACGATCCTACCAACATGGCGCTGTCGCCCTACGGCGAGCGCTGGCGACAGCTGCGCAAGATCTGCGTGCTGGAGCTGCTGAGCGCCGCCCGAGTGCAGTCGTTCCGGCGCATACGGCAGGAGGAGGTGGCGCGGCTCGTGGCGACGGTGGCGGCGGCAGCCGCCGTGCGT---TCCTCCGTGGACATGTCCGCGCGGGTCAAGACGTTCGTCTACGACACCATCATGAGGGAGTGCGTCGGCAGCCGGAGCAGGCACCAGGACGGGTACCTTGACGCCTTCCACATGGCG------------------------------------------------------------ATGCTCGCCACCGGGCCTCGCAAGGGGGTCGCGTGCCGTGACAGGATGCAGCGCGTACTGGAGCAGATCCTGAGCGAGAAGAAGGAATCCATGGGCACGGAGCGCGGC------GGCGGCGACGAGACAGCGCAGGAGACATTCGTTGGTGTCCTGCTCAGGCTCCAGAAGGAAGGACGCGCACCCATTGAAATCACCGACGGCACGATCGGCTCACTCATGTTTCGCCGGAAACGACACCTCGGCGAGCGTACT---GATCTGGTGCATGAGTGCATGACCGAGCTGATCCGGTCCCCGACGGCGATGGCCAGGGTCCAGGCCGAGGTGCGAGAAGCCTTCAAATCCAAGAGCACAATC---ACCGAGGAAGACATTTCTCGGGCCGACGCCGACGCCGACGCCGATGTCTACCTCAAGCTCGTGATCAAGGAGACCCTAAGGATGCACACGCAGCTGCCATTGCTGATCCCGCGCCGATGCCGCCGGACATGCCGGATCATGGGGTACGACATCCCGGAGGGCACGACGGTGATGGTCGATGTGTGGGCGATCTGTAGGGACCCTGTGCACTGGGACGATCCTGAGCAGTTCATGCCAGAACGGTTTGAGAACCGCAGCCTGGACCTGGATTACAAGGGCACAAACAAGCTACGAGTACCTCCCGTTCGGCTCCGGCCGTCGTATGTGCCCCGGCGTAAACCTTGGGCTGGCAAATATCAACCTCGCGCTGGTCAGCCTTCTGTACCACTTCGACTGGAAGCTGTGCGATGGAGATGGACTGGAGCCTGA---------------------------------------------------------------------------------------------------------------------------"/>
+                    <sequence id="seq_Zm00008a015051" spec="Sequence" taxon="Zm00008a015051" totalcount="4" value="ATGGTAGACAACGTGGTGGTCGCCGTAGCCGTGGTTGTGCTG---CTGGTCGTCGTGTCCAAGCTGAAGTCACTGCTCTCCTCGAAGCCCAAGCTACATCTTCCACCTGGGCCATGGACGCTGCCGGTGATTGGCAGCCTCCACCACCTCATCGGCAGTCCGTTGATCCATCGCACGCTGCGCCGCCTCTCTCAGAAGCACGGGCCTCTAATGATGCTCCGTCTCGGCGAGGTGCCCATGGTGATCGCTTCGTCACCTGAGGCTGCAGAGGAGATTCTGAAGACCCACGACACCGCGTTCGCCGACCGGTTCACCAGCGCCACCACGGCCGCGATGACGTACGACCCTACCAACATGGCGCTGTCGCCCTACGGCGAGCGCTGGCGACAGCTGCGCAAGATCTGC---------------------------------TCGTTCCGGCGCATACGGCAGGAGGAGGTGGCGCGGCTCGTGGCGACGGTGGCGGCGGCAGCCGCCGTGCGT---TCCTCCGTGGACATGTCCGCGGGGGCCAAGACGTTCGTCTACGACACCATCATGAGGGAGTGCGTCGGCAGCCGGAGCAGGCACCAGGACGGGTACCTTGACGCCTTCCACATGGCGGTGCGGCAGACGTCGGGGCTATCCGTCGCCGACCTGTTCCCGTCGTCTAGGATCATGCAGATGCTCGCCACCGGGCCACGCAAGGGGGTCGCGTGCCGTGACAGGATGCAGCGCGTACTGGAGCAGATCCTGAGCGAGAAGAAGGAATCCATGGAGCGCGGCGGCGGCGGCAGCGGCGACGACGAGACGGCGCAGGAGACCTTCGTCGGTGTCCTGCTCAGGCTCCAGAAGGAAGGACGCGCACCCATTGAAATCACCGACGGCACGATCGGCTCACTCATGTTTGACATGTTTAGCGCCGGAAGCGACACCTCGGCGAGCGTACTGATCTGGTGCATGACCGAGCTGATCCGGTCCCCGACGGCGATGGCCAGGGTCCAGGCCGAGGTGCGAGAAGCCTTCAAATCCAAGAGCACAATC---ACCGAGGAAGACATTTCTCGGGCCGACGCCGAT---------CTAGTCTACCTCAAGCTCGTGATCAAGGAGACCCTAAGGATGCACACGCAGCTGCCATTGCTGATCCCGCGCCGATGCCGCCGGACATGCCGGATCATGGGGTACGTACGACATCCCGGAGGGCACGACGGTGATGGTCAATGTGTGGGCGATCTGGACCCTGTGCACTGGGACGATCCTGAGCAGTTCATGCCAGAACGGTTTGAGAAGCGCAGCCTGGACCTGGATTACAAGGGCACAAGCTACGAGTACCTCCCGTTCGGGTCCGGCCGTCGT---ATGTGCCCCGGC---------------------------GCAAACCTTGGGCTGGCAAATATCAACCTCGCGCTGGTCAGCCTTCTGTACCACTTCGACTCGAAGCTGTGCGATGGACTG---------GACGTCGACGTAAGGGAGGATGTGGGATTAGTCACAAACAAGACAACCAGCCTCATTCTGTGTCCCGTTACTCGCGTTGCTCCAGCTCATgcgtaa------"/>
+                </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="10000000">
+    <state id="state" spec="State" storeEvery="5000">
+        <tree id="Tree.t:CYP71Z_Comb_Aln" spec="beast.evolution.tree.Tree" name="stateNode">
+            <taxonset id="TaxonSet.CYP71Z_Comb_Aln" spec="TaxonSet">
+                <alignment idref="CYP71Z_Comb_Aln"/>
+            </taxonset>
+        </tree>
+        <parameter id="freqParameter.s:CYP71Z_Comb_Aln" spec="parameter.RealParameter" dimension="4" lower="0.0" name="stateNode" upper="1.0">0.25</parameter>
+        <parameter id="rateAC.s:CYP71Z_Comb_Aln" spec="parameter.RealParameter" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="rateAG.s:CYP71Z_Comb_Aln" spec="parameter.RealParameter" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="rateAT.s:CYP71Z_Comb_Aln" spec="parameter.RealParameter" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="rateCG.s:CYP71Z_Comb_Aln" spec="parameter.RealParameter" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="rateGT.s:CYP71Z_Comb_Aln" spec="parameter.RealParameter" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="rateCT.s:CYP71Z_Comb_Aln" spec="parameter.RealParameter" lower="0.0" name="stateNode">1.0</parameter>
+        <stateNode id="Indicators.c:CYP71Z_Comb_Aln" spec="parameter.BooleanParameter" dimension="10">false</stateNode>
+        <parameter id="clockrates.c:CYP71Z_Comb_Aln" spec="parameter.RealParameter" dimension="10" lower="1.0E-9" name="stateNode">1.0</parameter>
+        <parameter id="birthRateY.t:CYP71Z_Comb_Aln" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="meanClockRate.c:CYP71Z_Comb_Aln" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+    </state>
+
+    <init id="RandomTree.t:CYP71Z_Comb_Aln" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:CYP71Z_Comb_Aln" taxa="@CYP71Z_Comb_Aln">
+        <populationModel id="ConstantPopulation0.t:CYP71Z_Comb_Aln" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:CYP71Z_Comb_Aln" spec="parameter.RealParameter" name="popSize">1.0</parameter>
+        </populationModel>
+    </init>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="CalibratedYuleModel.t:CYP71Z_Comb_Aln" spec="beast.evolution.speciation.CalibratedYuleModel" birthRate="@birthRateY.t:CYP71Z_Comb_Aln" tree="@Tree.t:CYP71Z_Comb_Aln"/>
+            <prior id="RRateChangesPrior.c:CYP71Z_Comb_Aln" name="distribution">
+                <x id="RRateChanges.c:CYP71Z_Comb_Aln" spec="util.Sum">
+                    <arg idref="Indicators.c:CYP71Z_Comb_Aln"/>
+                </x>
+                <distr id="Poisson.0" spec="beast.math.distributions.Poisson">
+                    <parameter id="RealParameter.13" spec="parameter.RealParameter" estimate="false" name="lambda">0.6931471805599453</parameter>
+                </distr>
+            </prior>
+            <prior id="CalibratedYuleBirthRatePrior.t:CYP71Z_Comb_Aln" name="distribution" x="@birthRateY.t:CYP71Z_Comb_Aln">
+                <Uniform id="Uniform.5" name="distr" upper="1000.0"/>
+            </prior>
+            <prior id="RRatesPrior.c:sCYP71Z_Comb_Aln" name="distribution" x="@clockrates.c:CYP71Z_Comb_Aln">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.1" spec="parameter.RealParameter" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.2" spec="parameter.RealParameter" estimate="false" name="beta">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="FrequenciesPrior.s:CYP71Z_Comb_Aln" name="distribution" x="@freqParameter.s:CYP71Z_Comb_Aln">
+                <Uniform id="Uniform.3" name="distr"/>
+            </prior>
+            <prior id="RateACPrior.s:CYP71Z_Comb_Aln" distr="@Gamma.0" name="distribution" x="@rateAC.s:CYP71Z_Comb_Aln"/>
+            <prior id="RateAGPrior.s:CYP71Z_Comb_Aln" name="distribution" x="@rateAG.s:CYP71Z_Comb_Aln">
+                <Gamma id="Gamma.1" name="distr">
+                    <parameter id="RealParameter.3" spec="parameter.RealParameter" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.4" spec="parameter.RealParameter" estimate="false" name="beta">20.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateATPrior.s:CYP71Z_Comb_Aln" name="distribution" x="@rateAT.s:CYP71Z_Comb_Aln">
+                <Gamma id="Gamma.2" name="distr">
+                    <parameter id="RealParameter.5" spec="parameter.RealParameter" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.6" spec="parameter.RealParameter" estimate="false" name="beta">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateCGPrior.s:CYP71Z_Comb_Aln" name="distribution" x="@rateCG.s:CYP71Z_Comb_Aln">
+                <Gamma id="Gamma.3" name="distr">
+                    <parameter id="RealParameter.7" spec="parameter.RealParameter" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.8" spec="parameter.RealParameter" estimate="false" name="beta">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateCTPrior.s:CYP71Z_Comb_Aln" name="distribution" x="@rateCT.s:CYP71Z_Comb_Aln">
+                <Gamma id="Gamma.4" name="distr">
+                    <parameter id="RealParameter.9" spec="parameter.RealParameter" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.10" spec="parameter.RealParameter" estimate="false" name="beta">20.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateGTPrior.s:CYP71Z_Comb_Aln" name="distribution" x="@rateGT.s:CYP71Z_Comb_Aln">
+                <Gamma id="Gamma.5" name="distr">
+                    <parameter id="RealParameter.11" spec="parameter.RealParameter" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.12" spec="parameter.RealParameter" estimate="false" name="beta">10.0</parameter>
+                </Gamma>
+            </prior>
+            <distribution id="M-Dup.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:CYP71Z_Comb_Aln">
+                <taxonset id="M-Dup" spec="TaxonSet">
+                    <taxon id="Zm00001d014121" spec="Taxon"/>
+                    <taxon id="Zm00001d014134" spec="Taxon"/>
+                    <taxon id="Zm00001d014136" spec="Taxon"/>
+                    <taxon id="Zm00001d048864" spec="Taxon"/>
+                    <taxon id="Zm00008a015051" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.0" name="distr">
+                    <parameter id="RealParameter.14" spec="parameter.RealParameter" estimate="false" name="mean">11.9</parameter>
+                    <parameter id="RealParameter.15" spec="parameter.RealParameter" estimate="false" name="sigma">1.0</parameter>
+                </Normal>
+            </distribution>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.CYP71Z_Comb_Aln" spec="ThreadedTreeLikelihood" data="@CYP71Z_Comb_Aln" tree="@Tree.t:CYP71Z_Comb_Aln">
+                <siteModel id="SiteModel.s:CYP71Z_Comb_Aln" spec="SiteModel">
+                    <parameter id="mutationRate.s:CYP71Z_Comb_Aln" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <parameter id="gammaShape.s:CYP71Z_Comb_Aln" spec="parameter.RealParameter" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:CYP71Z_Comb_Aln" spec="parameter.RealParameter" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="gtr.s:CYP71Z_Comb_Aln" spec="GTR" rateAC="@rateAC.s:CYP71Z_Comb_Aln" rateAG="@rateAG.s:CYP71Z_Comb_Aln" rateAT="@rateAT.s:CYP71Z_Comb_Aln" rateCG="@rateCG.s:CYP71Z_Comb_Aln" rateCT="@rateCT.s:CYP71Z_Comb_Aln" rateGT="@rateGT.s:CYP71Z_Comb_Aln">
+                        <frequencies id="estimatedFreqs.s:CYP71Z_Comb_Aln" spec="Frequencies" frequencies="@freqParameter.s:CYP71Z_Comb_Aln"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="RandomLocalClock.c:CYP71Z_Comb_Aln" spec="beast.evolution.branchratemodel.RandomLocalClockModel" clock.rate="@meanClockRate.c:CYP71Z_Comb_Aln" indicators="@Indicators.c:CYP71Z_Comb_Aln" rates="@clockrates.c:CYP71Z_Comb_Aln" tree="@Tree.t:CYP71Z_Comb_Aln"/>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="FrequenciesExchanger.s:CYP71Z_Comb_Aln" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="freqParameter.s:CYP71Z_Comb_Aln"/>
+    </operator>
+
+    <operator id="RateACScaler.s:CYP71Z_Comb_Aln" spec="ScaleOperator" parameter="@rateAC.s:CYP71Z_Comb_Aln" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="RateAGScaler.s:CYP71Z_Comb_Aln" spec="ScaleOperator" parameter="@rateAG.s:CYP71Z_Comb_Aln" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="RateATScaler.s:CYP71Z_Comb_Aln" spec="ScaleOperator" parameter="@rateAT.s:CYP71Z_Comb_Aln" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="RateCGScaler.s:CYP71Z_Comb_Aln" spec="ScaleOperator" parameter="@rateCG.s:CYP71Z_Comb_Aln" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="RateGTScaler.s:CYP71Z_Comb_Aln" spec="ScaleOperator" parameter="@rateGT.s:CYP71Z_Comb_Aln" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="RateCTScaler.s:CYP71Z_Comb_Aln" spec="ScaleOperator" parameter="@rateCT.s:CYP71Z_Comb_Aln" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="IndicatorsBitFlip.c:CYP71Z_Comb_Aln" spec="BitFlipOperator" parameter="@Indicators.c:CYP71Z_Comb_Aln" weight="15.0"/>
+
+    <operator id="ClockRateScaler.c:CYP71Z_Comb_Aln" spec="ScaleOperator" parameter="@clockrates.c:CYP71Z_Comb_Aln" scaleFactor="0.5" weight="15.0"/>
+
+    <operator id="CalibratedYuleModelTreeScaler.t:CYP71Z_Comb_Aln" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:CYP71Z_Comb_Aln" weight="3.0"/>
+
+    <operator id="CalibratedYuleModelTreeRootScaler.t:CYP71Z_Comb_Aln" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:CYP71Z_Comb_Aln" weight="3.0"/>
+
+    <operator id="CalibratedYuleModelUniformOperator.t:CYP71Z_Comb_Aln" spec="Uniform" tree="@Tree.t:CYP71Z_Comb_Aln" weight="30.0"/>
+
+    <operator id="CalibratedYuleModelSubtreeSlide.t:CYP71Z_Comb_Aln" spec="SubtreeSlide" tree="@Tree.t:CYP71Z_Comb_Aln" weight="15.0"/>
+
+    <operator id="CalibratedYuleModelNarrow.t:CYP71Z_Comb_Aln" spec="Exchange" tree="@Tree.t:CYP71Z_Comb_Aln" weight="15.0"/>
+
+    <operator id="CalibratedYuleModelWide.t:CYP71Z_Comb_Aln" spec="Exchange" isNarrow="false" tree="@Tree.t:CYP71Z_Comb_Aln" weight="3.0"/>
+
+    <operator id="CalibratedYuleModelWilsonBalding.t:CYP71Z_Comb_Aln" spec="WilsonBalding" tree="@Tree.t:CYP71Z_Comb_Aln" weight="3.0"/>
+
+    <operator id="CalibratedYuleBirthRateScaler.t:CYP71Z_Comb_Aln" spec="ScaleOperator" parameter="@birthRateY.t:CYP71Z_Comb_Aln" scaleFactor="0.75" weight="3.0"/>
+
+    <operator id="randomClockScaler.c:CYP71Z_Comb_Aln" spec="ScaleOperator" parameter="@meanClockRate.c:CYP71Z_Comb_Aln" scaleFactor="0.5" weight="1.0"/>
+
+    <operator id="randomClockUpDownOperator.c:CYP71Z_Comb_Aln" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="meanClockRate.c:CYP71Z_Comb_Aln"/>
+        <down idref="Tree.t:CYP71Z_Comb_Aln"/>
+    </operator>
+
+    <logger id="tracelog" spec="Logger" fileName="CYP71Z_Comb_Aln.log" logEvery="1000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.CYP71Z_Comb_Aln"/>
+        <log id="TreeHeight.t:CYP71Z_Comb_Aln" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:CYP71Z_Comb_Aln"/>
+        <log idref="freqParameter.s:CYP71Z_Comb_Aln"/>
+        <log idref="rateAC.s:CYP71Z_Comb_Aln"/>
+        <log idref="rateAG.s:CYP71Z_Comb_Aln"/>
+        <log idref="rateAT.s:CYP71Z_Comb_Aln"/>
+        <log idref="rateCG.s:CYP71Z_Comb_Aln"/>
+        <log idref="rateGT.s:CYP71Z_Comb_Aln"/>
+        <log idref="rateCT.s:CYP71Z_Comb_Aln"/>
+        <log idref="Indicators.c:CYP71Z_Comb_Aln"/>
+        <log idref="clockrates.c:CYP71Z_Comb_Aln"/>
+        <log idref="RRateChanges.c:CYP71Z_Comb_Aln"/>
+        <log idref="CalibratedYuleModel.t:CYP71Z_Comb_Aln"/>
+        <log idref="birthRateY.t:CYP71Z_Comb_Aln"/>
+        <log idref="M-Dup.prior"/>
+        <log idref="meanClockRate.c:CYP71Z_Comb_Aln"/>
+    </logger>
+
+    <logger id="screenlog" spec="Logger" logEvery="1000">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:CYP71Z_Comb_Aln" spec="Logger" fileName="$(tree).trees" logEvery="1000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:CYP71Z_Comb_Aln" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RandomLocalClock.c:CYP71Z_Comb_Aln" tree="@Tree.t:CYP71Z_Comb_Aln"/>
+    </logger>
+
+</run>
+
+</beast>
